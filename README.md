@@ -1,4 +1,4 @@
-# Microservice email rabbit postgre 
+# Microservice email rabbit postgreSQL
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/gvargasx/microservice-email-rabbit-postgre?style=for-the-badge)
 
